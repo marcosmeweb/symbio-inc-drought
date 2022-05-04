@@ -1,1 +1,1 @@
-The Supplementary Note S1
+The Supplementary Note S1 is provides the R script with default codes used to run the hidden Markov models of incrementing complexity on dataset v1 to v6, using the corHMM function of the R package corHMM v2.1.
