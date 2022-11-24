@@ -82,7 +82,12 @@ depARDj_x <- corHMM(phy, dat, rate.cat = j) # j varies from 1 to 3 and x from 1 
 saveRDS(depARDj_x, "depARDj_x.RDS")
 
 
-# code to run the ComputeCI function and obtain confidence intervals ----
+
+####
+
+
+
+# codes used to run the ComputeCI function and obtain confidence intervals ----
 
 require(corHMM)
 
